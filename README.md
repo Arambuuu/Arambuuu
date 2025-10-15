@@ -30,8 +30,9 @@ Currently improving my skills in **Full-Stack Development**.
 </p>
 
 ---
-
-<p align="center">⭐️ Crafted with ❤️ by <b>Aram</b></p>
+<a href="https://arambuuu.my.canva.site/portfolio-arambuuu">
+<p align="center">Arambuuu (c) 2025</p>
+</a>
 
 <!--
 **Arambuuu/Arambuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
