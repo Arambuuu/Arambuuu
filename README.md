@@ -1,8 +1,5 @@
 ## Hi, I am Arambuuu👋
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arambuuu)](https://git.io/streak-stats)
 <!--
 **Arambuuu/Arambuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
