@@ -1,9 +1,5 @@
-## Hi, I am Arambuuu👋
-A BSIT Graduate. A Visual and Multimdeia Artist.
-Front-end Developer | UI/UX
-
 <h1 align="center">👋 Hi, I'm Aram</h1>
-<p align="center">🚀 Web Developer | Vue • React • Laravel</p>
+<p align="center">🚀 Web Developer | Front-end | UI/UX | Vue • React • Laravel</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
