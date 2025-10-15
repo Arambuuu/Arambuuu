@@ -2,8 +2,8 @@
 <p align="center">🚀 Web Developer | Front-end | UI/UX | Vue • React • Laravel</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://yourportfolio.com](https://arambuuu.my.canva.site/portfolio-arambuuu"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+  <a href="https://linkedin.com/in/Arambuuu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://arambuuu.my.canva.site/portfolio-arambuuu"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
 </p>
 
 ---
