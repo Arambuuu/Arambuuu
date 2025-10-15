@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Arambuuu)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arambuuu&title=experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arambuuu)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Arambuuu/Arambuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
