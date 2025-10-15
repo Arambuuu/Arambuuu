@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aram</h1>
-<p align="center"> Web Developer | Front-end | UI/UX</p>
+<p align="center"> Web Developer • Front-end • UI/UX • Multimedia Artist • Visual Artist</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Arambuuu"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
