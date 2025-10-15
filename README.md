@@ -1,5 +1,6 @@
 ## Hi, I am Arambuuu👋
-
+A BSIT Graduate. A Visual and Multimdeia Artist.
+Front-end Developer | UI/UX
 <!--
 **Arambuuu/Arambuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
