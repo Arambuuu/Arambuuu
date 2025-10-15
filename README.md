@@ -1,6 +1,42 @@
 ## Hi, I am Arambuuu👋
 A BSIT Graduate. A Visual and Multimdeia Artist.
 Front-end Developer | UI/UX
+
+<h1 align="center">👋 Hi, I'm Aram</h1>
+<p align="center">🚀 Web Developer | Vue • React • Laravel</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
+</p>
+
+---
+
+### 🧠 About Me
+I'm passionate about building scalable, user-friendly web apps.  
+Currently improving my skills in **Full-Stack Development**.
+
+---
+
+<h3 align="center">🛠 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,js,html,css,tailwind,mysql,git,vscode" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+</p>
+
+---
+
+<p align="center">⭐️ Crafted with ❤️ by <b>Aram</b></p>
+
 <!--
 **Arambuuu/Arambuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
