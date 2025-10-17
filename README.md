@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aram</h1>
+<h1 align="center"> Hi, I'm Aram👋</h1>
 <p align="center"> Web Developer • Front-end • UI/UX • Multimedia Artist • Visual Artist</p>
 
 <p align="center">
