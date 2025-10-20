@@ -12,7 +12,7 @@
 
 <p align="center">
  I'm passionate about building scalable, user-friendly web apps.  
-Currently improving my skills in **Full-Stack Development**.
+Currently improving my skills in <strong>Full-Stack Development</strong>.
 </p>
 
 ---
