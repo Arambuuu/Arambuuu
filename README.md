@@ -8,10 +8,15 @@
 
 ---
 
-### 🧠 About Me
+### 
 I'm passionate about building scalable, user-friendly web apps.  
 Currently improving my skills in **Full-Stack Development**.
+<h3 align="center">🧠 About Me</h3>
 
+<p align="center">
+ I'm passionate about building scalable, user-friendly web apps.  
+Currently improving my skills in **Full-Stack Development**.
+</p>
 ---
 
 <h3 align="center">🛠 Tech Stack</h3>
