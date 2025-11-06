@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">🧠 About Me</h3>
+<h3 align="center">About Me</h3>
 
 <p align="center">
  I'm passionate about building scalable, user-friendly web apps.  
@@ -17,7 +17,7 @@ Currently improving my skills in <strong>Full-Stack Development</strong>.
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,js,html,css,tailwind,mysql,git,vscode" />
@@ -25,7 +25,7 @@ Currently improving my skills in <strong>Full-Stack Development</strong>.
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=radical" />
