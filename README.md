@@ -28,6 +28,7 @@ Currently improving my skills in <strong>Full-Stack Development</strong>.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,github,ps,pr,wordpress" />
 </p>
+
 ---
 
 <h3 align="center">GitHub Analytics</h3>
