@@ -20,9 +20,14 @@ Currently improving my skills in <strong>Full-Stack Development</strong>.
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,python,js,html,css,tailwind,mysql,git,vscode,figma,github,ps,pr,wordpress" />
+  <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,python,js,html,css,tailwind,mysql,git" />
 </p>
 
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github,ps,pr,wordpress" />
+</p>
 ---
 
 <h3 align="center">GitHub Analytics</h3>
