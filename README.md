@@ -34,7 +34,8 @@
 
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=radical" /><img
+  <img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=radical" />
+  <img
   src="https://github-readme-streak-stats.vercel.app?user=Arambuuu&theme=radical&cache_seconds=86400"
   alt="GitHub Streak Stats"
   width="420"
