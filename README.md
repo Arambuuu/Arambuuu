@@ -28,6 +28,7 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,github,ps,pr,wordpress" />
+  
 </p>
 
 <!-- <hr style="border: 0.2px solid #e0e0e0;"/>
