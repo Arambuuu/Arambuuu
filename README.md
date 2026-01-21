@@ -32,7 +32,7 @@
   
 </p>
 
-<!-- <hr style="border: 0.2px solid #e0e0e0;"/>
+ <hr style="border: 0.2px solid #e0e0e0;"/>
 
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
@@ -43,7 +43,7 @@
   width="420"
 />
 
-</p> -->
+</p> 
 
 <hr style="border: 0.2px solid #e0e0e0;"/>
 
