@@ -43,7 +43,9 @@
   alt="GitHub Streak Stats"
   width="420"
 /> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arambuuu&theme=dark" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arambuuu&theme=dark" alt="GitHub Streak" /></a> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arambuuu&theme=dark)](https://git.io/streak-stats)
 
 </p> 
 
