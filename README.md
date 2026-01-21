@@ -38,11 +38,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=radical" />
  <br>
-  <img
+  <!-- <img
   src="https://github-readme-streak-stats.vercel.app?user=Arambuuu&theme=radical&cache_seconds=86400"
   alt="GitHub Streak Stats"
   width="420"
-/>
+/> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arambuuu)](https://git.io/streak-stats)
 
 </p> 
 
