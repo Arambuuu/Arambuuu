@@ -39,6 +39,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=radical" />
  <br>
+  </p> 
   <!-- <img
   src="https://github-readme-streak-stats.vercel.app?user=Arambuuu&theme=radical&cache_seconds=86400"
   alt="GitHub Streak Stats"
@@ -46,6 +47,7 @@
 /> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arambuuu&theme=dark" alt="GitHub Streak" /></a> -->
 
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arambuuu)](https://git.io/streak-stats)
 
 
