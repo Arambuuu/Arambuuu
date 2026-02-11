@@ -1,60 +1,103 @@
-<h1 align="center"> Hello, I'm Aram!</h1>
-<p align="center"> Web Developer • Front-end • UI/UX • Multimedia Artist • Visual Artist</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/Arambuuu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://arambuuu.my.canva.site/portfolio-arambuuu" target="_blank">
-  
+# 👋 Hello, I'm Aram
 
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+### Web Developer • Front-end • UI/UX • Multimedia Artist • Visual Artist
 
-<hr style="border: 0.2px solid #e0e0e0;"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arambuuu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://arambuuu.my.canva.site/portfolio-arambuuu)
 
-<h3 align="center">About Me</h3>
-<p align="center">
-  I'm passionate about building scalable, user-friendly web apps.<br>
-  Currently improving my skills in <strong>Full-Stack Development</strong>.
-</p>
+</div>
 
-<hr style="border: 0.2px solid #e0e0e0;"/>
+---
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,python,js,html,css,tailwind,mysql,git" />
-</p>
+## 🚀 About Me
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,ps,pr,wordpress" />
-  
-</p>
+> Passionate about crafting scalable, user-friendly web applications that make a difference.
 
- <hr style="border: 0.2px solid #e0e0e0;"/>
+I'm a multidisciplinary creative developer focused on building elegant digital experiences. Currently expanding my expertise in **Full-Stack Development** while combining technical skills with artistic vision.
 
-<h3 align="center">GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=radical" />
- <br>
-  </p> 
-  <!-- <img
-  src="https://github-readme-streak-stats.vercel.app?user=Arambuuu&theme=radical&cache_seconds=86400"
-  alt="GitHub Streak Stats"
-  width="420"
-/> -->
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arambuuu&theme=dark" alt="GitHub Streak" /></a> -->
+```javascript
+const aram = {
+  code: ["JavaScript", "PHP", "Python", "HTML/CSS"],
+  frameworks: ["Vue.js", "React", "Laravel", "Tailwind CSS"],
+  design: ["UI/UX", "Multimedia Art", "Visual Design"],
+  currentFocus: "Building seamless full-stack applications",
+  interests: ["Web Performance", "User Experience", "Creative Coding"]
+};
+```
 
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arambuuu)](https://git.io/streak-stats)
+---
 
+## 🛠️ Tech Stack
 
-</p> 
+**Frontend Development**
+```
+Vue.js • React • JavaScript • HTML5 • CSS3 • Tailwind CSS
+```
 
-<hr style="border: 0.2px solid #e0e0e0;"/>
+**Backend Development**
+```
+Laravel • PHP • Python • MySQL
+```
 
-<p align="center">© 2026 Arambuuu</p>
+**Design & Tools**
+```
+Figma • Adobe Photoshop • Premiere Pro • VS Code • Git & GitHub • WordPress
+```
 
+<div align="center">
 
+### Technologies I Work With
+
+<img src="https://skillicons.dev/icons?i=vue,react,laravel,php,python,js,html,css,tailwind,mysql,git,vscode,figma,github,ps,pr,wordpress&perline=8" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arambuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Arambuuu&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arambuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+</div>
+
+---
+
+## 💼 What I'm Up To
+
+- 🔭 Currently working on full-stack web applications
+- 🌱 Learning advanced React patterns and Laravel best practices
+- 👯 Open to collaborating on creative web projects
+- 💬 Ask me about frontend development, UI/UX design, or multimedia art
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/Arambuuu)
+
+---
+
+## 🌟 Featured Projects
+
+Check out my [portfolio](https://arambuuu.my.canva.site/portfolio-arambuuu) to see my latest work and creative projects!
+
+---
+
+<div align="center">
+
+### Let's Connect! 🤝
+
+Feel free to reach out for collaborations or just a friendly chat about tech and design.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arambuuu)
+
+---
+
+**© 2026 Arambuuu • Crafted with 💙 and ☕**
+
+<img src="https://komarev.com/ghpvc/?username=Arambuuu&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
