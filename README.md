@@ -2,8 +2,7 @@
 
 # Hello, I'm Aram!👋  
 
-
-### Web Developer • Front-end • UI/UX • Multimedia Artist • Visual Artist
+### Web Developer • UI/UX • Multimedia Artist • Visual Artist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arambuuu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://arambuuu.my.canva.site/portfolio-arambuuu)
