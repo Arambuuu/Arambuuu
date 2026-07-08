@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hello, I'm Aram!👋   
 
 ### Web Developer • UI/UX • Multimedia Artist • Visual Artist
