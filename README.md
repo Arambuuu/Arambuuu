@@ -95,7 +95,6 @@ Feel free to reach out for collaborations or just a friendly chat about tech and
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arambuuu)
 
 ---
-
 **© 2026 Arambuuu • Crafted with 💙 and ☕**
 
 <img src="https://komarev.com/ghpvc/?username=Arambuuu&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
