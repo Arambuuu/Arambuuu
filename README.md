@@ -50,7 +50,7 @@ Figma • Adobe Photoshop • Premiere Pro • VS Code • Git & GitHub • Word
 
 ### Technologies I Work With
 
-<img src="https://skillicons.dev/icons?i=vue,react,laravel,php,python,js,html,css,tailwind,mysql,git,vscode,figma,github,ps,pr,wordpress&perline=8" />
+<img src="https://skillicons.dev/icons?i=vue,react,laravel,php,python,js,html,css,tailwind,mysql,git,vscode,figma,github,ps,pr,quasar,wordpress&perline=8" />
 
 </div>
 
@@ -100,5 +100,3 @@ Feel free to reach out for collaborations or just a friendly chat about tech and
 <img src="https://komarev.com/ghpvc/?username=Arambuuu&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
-uuuu
