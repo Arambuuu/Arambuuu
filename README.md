@@ -101,4 +101,4 @@ Feel free to reach out for collaborations or just a friendly chat about tech and
 
 </div>
 
-pogi ko
+
