@@ -50,7 +50,7 @@ Figma • Adobe Photoshop • Premiere Pro • VS Code • Git & GitHub • Word
 
 ### Technologies I Work With
 
-<img src="https://skillicons.dev/icons?i=arduino,bootstrap,electron,vue,react,laravel,php,python,js,html,css,tailwind,mysql,git,vscode,figma,github,ae,ai,ps,pr,wordpress&perline=8" />
+<img src="https://skillicons.dev/icons?i=arduino,bootstrap,electron,vue,react,nextjs,laravel,php,python,js,html,css,tailwind,mysql,git,vscode,figma,github,ae,ai,ps,pr,wordpress&perline=8" />
 
 </div>
 
